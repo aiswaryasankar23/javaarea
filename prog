@@ -1,0 +1,27 @@
+importjava.io.*;
+public class aiswarya
+{
+ public tatic voidmain(String[]args)
+ {
+   int num =3;
+   function obj=newfunction();
+   obj.fact(num)
+   obj.square(num);
+   }
+  }
+  class function
+  [
+  void fact (int n)
+  {
+   int f=1;
+   for(int i=1;i<=n;i++)
+   f*=1;
+   System.out.println("factorial="+f);
+   }
+   void square(int n)
+   {
+   int sq=n*n;
+   System.out.println("square of number is"=sq)
+   }
+  }
+  
