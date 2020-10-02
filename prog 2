@@ -1,0 +1,10 @@
+/ c program using array
+#include<stdio.h>
+#include<math.h>
+void main()
+{
+  static int array[10][10]
+  inti,j m,n,sum=0,sum1=0,a=0,normal;
+  printf("enter the order of matrix");
+  scanf("%d %d",&m,&n);
+  printf(i=0
