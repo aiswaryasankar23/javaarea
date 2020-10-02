@@ -10,7 +10,7 @@ public class aiswarya
    }
   }
   class function
-  [
+  {
   void fact (int n)
   {
    int f=1;
