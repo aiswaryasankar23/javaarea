@@ -3,8 +3,21 @@
 #include<math.h>
 void main()
 {
-  static int array[10][10]
+  static int array[10][10];
   inti,j m,n,sum=0,sum1=0,a=0,normal;
   printf("enter the order of matrix");
   scanf("%d %d",&m,&n);
-  printf(i=0
+  printf(i=0;i<m;++i)
+  {
+   scanf(%d",&array[i][j];
+   a=array[i][j]*array[i][j];
+   sum1=sum1+a;
+   }
+   normal=sqrt(sum1);
+   printf("the normal matrix=%d");
+   for(i=0;i<m;i++)
+   {
+   sum=sum+array[i][j];
+   }
+   printf(trace of matrix=%d",sum);
+  } 
